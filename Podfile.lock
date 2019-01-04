@@ -1,0 +1,48 @@
+PODS:
+  - Bond (7.0.0):
+    - Differ (~> 1.3)
+    - ReactiveKit (~> 3.9)
+  - DatePickerCell (1.0.7)
+  - Differ (1.3.0)
+  - LTMorphingLabel (0.5.9)
+  - MarqueeLabel/Swift (3.2.0)
+  - ReactiveCocoa (8.0.2):
+    - ReactiveSwift (~> 4.0)
+  - ReactiveKit (3.9.7)
+  - ReactiveSwift (4.0.0):
+    - Result (~> 4.0)
+  - Result (4.0.0)
+
+DEPENDENCIES:
+  - Bond
+  - DatePickerCell
+  - LTMorphingLabel
+  - MarqueeLabel/Swift
+  - ReactiveCocoa
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bond
+    - DatePickerCell
+    - Differ
+    - LTMorphingLabel
+    - MarqueeLabel
+    - ReactiveCocoa
+    - ReactiveKit
+    - ReactiveSwift
+    - Result
+
+SPEC CHECKSUMS:
+  Bond: 7928751991aee53c1b746e82735a7214db2cb09f
+  DatePickerCell: f324217007d784b085647631c2067edadce58f55
+  Differ: 9fcee7602542d7c6484ce05a0faec1c11258ed63
+  LTMorphingLabel: e6047354486aa4ba52d36ccc40be8874b50e1ef1
+  MarqueeLabel: 440a502b91a9179bd98f9fff00ba1150650a1c0e
+  ReactiveCocoa: fbd26e9ba60e98417ee47433e59465a98ed9da0f
+  ReactiveKit: 5f4c440715d671901c382ae6b42ed3337ce4699b
+  ReactiveSwift: a2bb9ace428a109e9c0209615645d9d286c8c433
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+
+PODFILE CHECKSUM: f26b212012fee7d6bab4f3c77461238dea8ac73b
+
+COCOAPODS: 1.5.3
